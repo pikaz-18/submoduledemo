@@ -1,0 +1,3 @@
+[submodule "submodule/sign"]
+	path = submodule/sign
+	url = https://gitlab.kuaizitech.cn/f2e/sign.git
